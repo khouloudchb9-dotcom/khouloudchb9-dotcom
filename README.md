@@ -1,6 +1,6 @@
 <!-- 🎨 Custom Figma-Style Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/5W8pDJg8/Capture-d-cran-2025-10-22-151726.png" alt="Khouloud - UI/UX Designer Banner" width="800">
+  <img src="[https://i.ibb.co/5W8pDJg8/Capture-d-cran-2025-10-22-151726.png](https://ibb.co/h1fCYhmV)" alt="Khouloud - UI/UX Designer Banner" width="800">
 </p>
 
 # 🌸 Hello, I'm Khouloud
