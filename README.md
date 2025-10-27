@@ -57,8 +57,8 @@ Understanding users' needs and behaviors is at the heart of how I build engaging
 
 ## 📊 GitHub Insights  
  
-![Khouloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khouloudchb9&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudchb9&layout=compact&theme=tokyonight)
+![Khouloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khouloudchb9-dotcom&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudchb9-dotcom&layout=compact&theme=tokyonight)
 
 ---
 
