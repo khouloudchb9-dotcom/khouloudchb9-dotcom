@@ -56,7 +56,7 @@ Understanding users' needs and behaviors is at the heart of how I build engaging
 ---
 
 ## 📊 GitHub Insights  
-*(Replace `YourGitHubUsername` with your real one)*  
+ 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YourGitGithubUsername&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitGithubUsername&layout=compact&theme=tokyonight)
 
