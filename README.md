@@ -1,6 +1,6 @@
 <!-- 🎨 Custom Figma-Style Banner -->
 <p align="center">
-  <img src="https://ibb.co/h1fCYhmV" alt="Khouloud - UI/UX Designer Banner" width="800">
+  <img src="https://ibb.co/XfydVCPH" alt="Khouloud - UI/UX Designer Banner" width="800">
 </p>
 
 # 🌸 Hello, I'm Khouloud
